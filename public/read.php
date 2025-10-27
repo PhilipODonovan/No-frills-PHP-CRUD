@@ -61,5 +61,5 @@ if ($result && $statement->rowCount() > 0) {
         <input type="text" id="location" name="location">
         <input type="submit" name="submit" value="View Results">
     </form>
-    <a href="index.php">Back to home</a>
+
 <?php require "templates/footer.php"; ?>

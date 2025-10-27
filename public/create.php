@@ -48,6 +48,6 @@ echo $new_user['firstname']. ' successfully added';
     <input type="submit" name="submit" value="Submit">
 </form>
 <br>
-<a href="index.php">Back to home</a>
+
 
 <?php include "templates/footer.php"; ?>

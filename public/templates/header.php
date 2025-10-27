@@ -8,4 +8,11 @@
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
+<div class="topnav">
+    <a href="create.php">Create</a>
+    <a href="read.php">Read</a>
+    <a href="update.php">Update</a>
+    <a href="delete.php">Delete</a>
+</div>
+<div class="content">
 <h1>Simple Database App</h1>
