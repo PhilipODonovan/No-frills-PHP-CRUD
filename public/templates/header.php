@@ -13,6 +13,7 @@
     <a href="read.php">Read</a>
     <a href="update.php">Update</a>
     <a href="delete.php">Delete</a>
+    <a href="readall.php">Read All</a>
 </div>
 <div class="content">
-<h1>Simple Database App</h1>
+<h1>Sessions</h1>
